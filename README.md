@@ -23,3 +23,12 @@
 *  Events
 * CSS modules
 * React Icons library
+
+5. **Tours**: [Live Page](https://skochdev.github.io/02-tours/)
+* Fetching tours from an api using fetch, async / await syntax and useEffect()
+* Storing them in state using useState()
+* Implementing sort of state machine to render according to the current state (showing content, loading content, showing error if occurred)
+* Some responsiveness, although without any particular media queries
+* Responsive
+* Implemented a spinner that runs while page is loading. Used React Icons library
+* Each card has a description text, which is truncated, and a "Show more / Show less" toggle button.
