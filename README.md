@@ -24,7 +24,7 @@
 * CSS modules
 * React Icons library
 
-5. **Tours**: [Live Page](https://skochdev.github.io/02-tours/)
+5. **Tours**: [Live Page](https://skochdev.github.io/02-tours/) | [source code](https://github.com/skochdev/02-tours)
 * Fetching tours from an api using fetch, async / await syntax and useEffect()
 * Storing them in state using useState()
 * Implementing sort of state machine to render according to the current state (showing content, loading content, showing error if occurred)
