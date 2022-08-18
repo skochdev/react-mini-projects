@@ -32,3 +32,9 @@
 * Responsive
 * Implemented a spinner that runs while page is loading. Used React Icons library
 * Each card has a description text, which is truncated, and a "Show more / Show less" toggle button.
+
+6. **Started using styled components and styled system**:
+[Live Page](https://skochdev.github.io/new-goit-react-hw-01-components/) | [source code](https://github.com/skochdev/new-goit-react-hw-01-components)
+- Practical usage of styled components.
+- Use ThemeProvider and theme (styled system)
+- Set up CD for gh-pages on each new push to _main_, utilize github actions
