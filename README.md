@@ -24,6 +24,8 @@
 * CSS modules
 * React Icons library
 
+---
+
 5. **Tours**: [Live Page](https://skochdev.github.io/02-tours/) | [source code](https://github.com/skochdev/02-tours)
 * Fetching tours from an api using fetch, async / await syntax and useEffect()
 * Storing them in state using useState()
@@ -32,6 +34,8 @@
 * Responsive
 * Implemented a spinner that runs while page is loading. Used React Icons library
 * Each card has a description text, which is truncated, and a "Show more / Show less" toggle button.
+
+---
 
 6. **Started using styled components and styled system**:
 [Live Page](https://skochdev.github.io/new-goit-react-hw-01-components/) | [source code](https://github.com/skochdev/new-goit-react-hw-01-components)
