@@ -39,6 +39,7 @@
 
 6. **Started using styled components and styled system**:
 [Live Page](https://skochdev.github.io/new-goit-react-hw-01-components/) | [source code](https://github.com/skochdev/new-goit-react-hw-01-components)
+- This one is vanilla JS, not TypeScript
 - Practical usage of styled components.
 - Use ThemeProvider and theme (styled system)
-- Set up CD for gh-pages on each new push to _main_, utilize github actions
+- Set up CD for gh-pages on each new push to _main_, utilize Github actions
