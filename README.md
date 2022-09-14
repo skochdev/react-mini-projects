@@ -1,5 +1,5 @@
 # My mini-projects created with React and TypeScript
-1. **Phonebook**: [Live Page](https://skochdev.github.io/goit-react-hw-04-phonebook-ts/) | [source code](https://github.com/skochdev/goit-react-hw-04-phonebook-ts)
+1. **Phonebook**: [Live Page](https://skochdev.github.io/new-goit-react-hw-04-phonebook/) | [source code](https://github.com/skochdev/new-goit-react-hw-04-phonebook)
 * useState, useEffect hooks, localStorage save/retrieve data, forms, controlled form,
 
 ---
