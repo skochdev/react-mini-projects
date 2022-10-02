@@ -1,4 +1,4 @@
-# My mini-projects created with React and TypeScript
+# My mini-projects created with React. Vanilla JS and TypeScript
 ---
 
 ##  **Simple slider for reviews**
