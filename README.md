@@ -1,6 +1,12 @@
 # My mini-projects created with React. Vanilla JS and TypeScript
 ---
 
+##  **Accordion**
+[Live Page](https://skochdev.github.io/04-accordion/) | [source code](https://github.com/skochdev/04-accordion)
+* Some simple accordion
+
+---
+
 ##  **Simple slider for reviews**
 [Live Page](https://skochdev.github.io/03-reviews/) | [source code](https://github.com/skochdev/03-reviews)
 * Given the file with reviews create a component that will
@@ -59,4 +65,4 @@ display an image, name, position and review text.
 - This one is vanilla JS, not TypeScript
 - Practical usage of styled components.
 - Use ThemeProvider and theme (styled system)
-- Set up CD for gh-pages on each new push to _main_, utilize Github actions
+- Set up CD for gh-pages on each new push to _main_, utilize GitHub actions
