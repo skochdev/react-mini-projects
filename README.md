@@ -5,6 +5,7 @@
 ##  **Menu with filter**
 [Live Page](https://skochdev.github.io/05-menu/) | [source code](https://github.com/skochdev/05-menu)
 
+- React, TypeScript, Styled Components, Styled System
 - Utilizing useState
 - Conditional rendering
 - Styled components and theme
