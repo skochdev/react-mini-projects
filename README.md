@@ -1,4 +1,16 @@
 # My mini-projects created with React. Vanilla JS and TypeScript
+
+---
+
+##  **Menu with filter**
+[Live Page](https://skochdev.github.io/05-menu/) | [source code](https://github.com/skochdev/05-menu)
+
+- Utilizing useState
+- Conditional rendering
+- Styled components and theme
+- Custom CSS styling with Grid and Flexbox
+- Not responsive
+
 ---
 
 ##  **Accordion**
