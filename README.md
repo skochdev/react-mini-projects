@@ -2,6 +2,20 @@
 
 ---
 
+##  **Tabs**
+[Live Page](https://skochdev.github.io/06-Tabs/) | [source code](https://github.com/skochdev/06-Tabs)
+
+# Tabs component
+
+- Done using TypeScript and Styled Components
+- Fetching data from an api
+- While data is loading, a load indication is displaying
+- Utilizing styling along with event handler and useState to implement dynamic
+  change of the details tab, depending on the tab selected
+- Basic styling so it is not looks too ugly
+
+---
+
 ##  **Menu with filter**
 [Live Page](https://skochdev.github.io/05-menu/) | [source code](https://github.com/skochdev/05-menu)
 
