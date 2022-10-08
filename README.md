@@ -1,4 +1,5 @@
 # My mini-projects created with React. Vanilla JS and TypeScript
+## The goal of making these is to practice common React concepts.
 
 ---
 
