@@ -1,5 +1,27 @@
 # My mini-projects created with React. Vanilla JS and TypeScript
-## The goal of making these is to practice common React concepts.
+## Practicing common React concepts.
+
+
+
+---
+##  **React Router**
+[Live Page](https://skochdev.github.io/05-01-react-router-navigation-location-query/) | [source code](https://github.com/skochdev/05-01-react-router-navigation-location-query)
+
+- Practicing standard React Router concepts
+- Index routes, nested routes,`<Link/>`, `<NavLink/>`
+- Dynamic URL parameters, **useParams** hook
+- **useNavigate**, **useSearchParams**, **useLocation** hooks, query string
+- **React.lazy()** and **React.Suspense**
+
+---
+# Tabs component
+
+- Done using TypeScript and Styled Components
+- Fetching data from an api
+- While data is loading, a load indication is displaying
+- Utilizing styling along with event handler and useState to implement dynamic
+  change of the details tab, depending on the tab selected
+- Basic styling so it doesn't look too ugly
 
 ---
 
@@ -13,7 +35,7 @@
 - While data is loading, a load indication is displaying
 - Utilizing styling along with event handler and useState to implement dynamic
   change of the details tab, depending on the tab selected
-- Basic styling so it is not looks too ugly
+- Basic styling so it doesn't look too ugly
 
 ---
 
