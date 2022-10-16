@@ -1,6 +1,15 @@
 # My mini-projects created with React. Vanilla JS and TypeScript
-## Practicing common React concepts.
+## *Practicing common React concepts*
 
+
+---
+##  **Auto-Slider with responsive styled system implementation**
+[Live Page](https://skochdev.github.io/07-reviews-auto-slider/) | [source code](https://github.com/skochdev/07-reviews-auto-slider)
+
+- Implements responsiveness using theme and styled system's responsive styles
+- Everything is created from the ground up. CSS is done using Styled Components
+- Slider activates automatically, useEffect cleans up the setInterval when clicking buttons
+- React code is not polished, just wanted to responsiveness to work well on all screens
 
 
 ---
@@ -14,21 +23,8 @@
 - **React.lazy()** and **React.Suspense**
 
 ---
-# Tabs component
-
-- Done using TypeScript and Styled Components
-- Fetching data from an api
-- While data is loading, a load indication is displaying
-- Utilizing styling along with event handler and useState to implement dynamic
-  change of the details tab, depending on the tab selected
-- Basic styling so it doesn't look too ugly
-
----
-
 ##  **Tabs**
 [Live Page](https://skochdev.github.io/06-Tabs/) | [source code](https://github.com/skochdev/06-Tabs)
-
-# Tabs component
 
 - Done using TypeScript and Styled Components
 - Fetching data from an api
